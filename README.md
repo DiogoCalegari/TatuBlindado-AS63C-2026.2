@@ -3,9 +3,11 @@
 Atividade 01 
 
 Disciplina de Desenvolvimento Ágil AS63C
+<br>
 Terceiro Semestre do Curso de Análise e Desenvolvimento de Sistemas
 
 Projetado por:
+<br>
 Diogo Calegari dos Reis 2766973
 <br>
 <img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/34ea99e3-c151-41bf-9d83-11d216f540e1" />
