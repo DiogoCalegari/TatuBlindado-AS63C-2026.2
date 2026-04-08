@@ -8,15 +8,15 @@ Terceiro Semestre do Curso de Análise e Desenvolvimento de Sistemas
 Projetado por:
 Diogo Calegari dos Reis 2766973
 <br>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/34ea99e3-c151-41bf-9d83-11d216f540e1" />
+<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/34ea99e3-c151-41bf-9d83-11d216f540e1" />
 
 João Antonio Carboni 2767058
 <br>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5c7ac9ac-00e6-4cb1-aefe-0f633a250e7f" />
+<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/5c7ac9ac-00e6-4cb1-aefe-0f633a250e7f" />
 
 Giovanni Beker 2767007
 <br>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dc5b13eb-1563-4924-b512-6c43ca6d19b3" />
+<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/dc5b13eb-1563-4924-b512-6c43ca6d19b3" />
 
 Jedson Marengoni 2767040
 
