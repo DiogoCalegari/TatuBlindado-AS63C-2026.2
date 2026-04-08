@@ -1,4 +1,5 @@
 # TatuBlindado-AS63C-2026.2
+<img width="541" height="541" alt="image" src="https://github.com/user-attachments/assets/d5b5a1a7-54f2-4ebd-a0b9-454fd3f0be45" />
 
 Atividade 01 
 
