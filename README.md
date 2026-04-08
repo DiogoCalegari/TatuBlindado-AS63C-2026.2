@@ -7,7 +7,7 @@ Terceiro Semestre do Curso de Análise e Desenvolvimento de Sistemas
 
 Projetado por:
 Diogo Calegari dos Reis 2766973
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/34ea99e3-c151-41bf-9d83-11d216f540e1" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/34ea99e3-c151-41bf-9d83-11d216f540e1" />
 
 João Antônio Carboni 2767058
 
