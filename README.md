@@ -16,7 +16,7 @@ João Antonio Carboni 2767058
 
 Giovanni Beker 2767007
 <br>
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/dc5b13eb-1563-4924-b512-6c43ca6d19b3" />
+<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/dc5b13eb-1563-4924-b512-6c43ca6d19b3" />
 
 Jedson Marengoni 2767040
 
