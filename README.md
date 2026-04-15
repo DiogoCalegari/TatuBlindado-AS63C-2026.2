@@ -9,6 +9,8 @@ Disciplina de Desenvolvimento Ágil AS63C
 <br>
 Terceiro Semestre do Curso de Análise e Desenvolvimento de Sistemas
 
+O projeto tem como objetivo auxiliar empresas na análise de currículos e na gestão logística de funcionários, considerando suas habilidades e competências. A proposta busca otimizar a alocação de talentos, melhorar a eficiência operacional e apoiar a tomada de decisões estratégicas relacionadas a recursos humanos.
+
 Projetado por:
 <br>
 Diogo Calegari dos Reis 2766973
@@ -27,5 +29,3 @@ Jedson Marengoni 2767040
 <br>
 <img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/7c869228-31e7-489b-bded-a0e7b2116272" />
 
-
-O projeto tem como objetivo auxiliar empresas na análise de currículos e na gestão logística de funcionários, considerando suas habilidades e competências. A proposta busca otimizar a alocação de talentos, melhorar a eficiência operacional e apoiar a tomada de decisões estratégicas relacionadas a recursos humanos.
