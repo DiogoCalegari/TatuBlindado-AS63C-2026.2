@@ -81,7 +81,7 @@
             <td style="border-style:solid;border-width:1px;text-align:center">5</td>
         </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US07</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US06</td>
             <td style="border-style:solid;border-width:1px;padding:10px">
                 Como usuário comum, eu quero exportar meu currículo em PDF para compartilhá-lo em processos seletivos.
             </td>
@@ -97,7 +97,7 @@
             <td style="border-style:solid;border-width:1px;text-align:center">3</td>
         </tr>
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US08</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US07</td>
             <td style="border-style:solid;border-width:1px;padding:10px">
                 Como administrador de empresa, eu quero remover currículos do banco da empresa para manter os registros organizados.
             </td>
