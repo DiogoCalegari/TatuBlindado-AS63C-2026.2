@@ -78,7 +78,7 @@
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF05</td>
-            <td style="border-style:solid;border-width:1px;text-align:center">2</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">5</td>
         </tr>
     </tbody>
 </table>
