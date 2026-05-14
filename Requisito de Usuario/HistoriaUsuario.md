@@ -50,7 +50,7 @@
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF03 / RNF01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center">5</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">4</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US04</td>
