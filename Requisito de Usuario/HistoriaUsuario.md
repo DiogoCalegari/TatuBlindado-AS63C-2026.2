@@ -64,7 +64,7 @@
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">2</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US05</td>
