@@ -22,7 +22,7 @@
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">2</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US02</td>
