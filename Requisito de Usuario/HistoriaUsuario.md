@@ -80,6 +80,38 @@
             <td style="border-style:solid;border-width:1px;text-align:center">RF05</td>
             <td style="border-style:solid;border-width:1px;text-align:center">5</td>
         </tr>
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US07</td>
+            <td style="border-style:solid;border-width:1px;padding:10px">
+                Como usuário comum, eu quero exportar meu currículo em PDF para compartilhá-lo em processos seletivos.
+            </td>
+            <td style="border-style:solid;border-width:1px;padding:10px">
+                <ol>
+                    <li>Permitir gerar o currículo em formato PDF;</li>
+                    <li>O arquivo deve conter todas as informações cadastradas;</li>
+                    <li>O download deve iniciar corretamente após a geração.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">RF06</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">3</td>
+        </tr>
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US08</td>
+            <td style="border-style:solid;border-width:1px;padding:10px">
+                Como administrador de empresa, eu quero remover currículos do banco da empresa para manter os registros organizados.
+            </td>
+            <td style="border-style:solid;border-width:1px;padding:10px">
+                <ol>
+                    <li>Permitir remover um currículo associado à empresa;</li>
+                    <li>Exibir confirmação antes da remoção;</li>
+                    <li>O currículo não deve mais aparecer na lista após a exclusão.</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">RF07</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">2</td>
+        </tr>
     </tbody>
 </table>
 
