@@ -92,7 +92,7 @@
                     <li>O download deve iniciar corretamente após a geração.</li>
                 </ol>
             </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF06</td>
             <td style="border-style:solid;border-width:1px;text-align:center">3</td>
         </tr>
@@ -108,7 +108,7 @@
                     <li>O currículo não deve mais aparecer na lista após a exclusão.</li>
                 </ol>
             </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF07</td>
             <td style="border-style:solid;border-width:1px;text-align:center">2</td>
         </tr>
