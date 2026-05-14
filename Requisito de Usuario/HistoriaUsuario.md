@@ -110,7 +110,7 @@
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center">RF07</td>
-            <td style="border-style:solid;border-width:1px;text-align:center">2</td>
+            <td style="border-style:solid;border-width:1px;text-align:center">1</td>
         </tr>
     </tbody>
 </table>
