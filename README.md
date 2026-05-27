@@ -105,7 +105,6 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 ⚙️ Desenvolvedor
 
 ━━━━━━━━━━━━━━
-
 </td>
 
 <td align="center" width="250">
