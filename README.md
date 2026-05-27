@@ -1,31 +1,79 @@
-# TatuBlindado-AS63C-2026.2
-<div style="display: flex; justify-content: center;">
- <img style width="301" height="301" alt="image" src="https://github.com/user-attachments/assets/d5b5a1a7-54f2-4ebd-a0b9-454fd3f0be45" />
+# 🛡️ TatuBlindado-AS63C-2026.2
+
+<div align="center">
+
+<img width="260" height="260" alt="Logo do Projeto" src="https://github.com/user-attachments/assets/d5b5a1a7-54f2-4ebd-a0b9-454fd3f0be45" />
+
+# TatuBlindado
+
+### Sistema Inteligente para Gestão de Talentos e Logística Corporativa
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Tecnologia](https://img.shields.io/badge/stack-web-blue)
+![Disciplina](https://img.shields.io/badge/AS63C-Desenvolvimento%20%C3%81gil-green)
+
 </div>
 
-Atividade 01 
+---
 
-Disciplina de Desenvolvimento Ágil AS63C
-<br>
-Terceiro Semestre do Curso de Análise e Desenvolvimento de Sistemas
+# 📖 Sobre o Projeto
 
-O projeto tem como objetivo auxiliar empresas na análise de currículos e na gestão logística de funcionários, considerando suas habilidades e competências. A proposta busca otimizar a alocação de talentos, melhorar a eficiência operacional e apoiar a tomada de decisões estratégicas relacionadas a recursos humanos.
+O **TatuBlindado** é um sistema desenvolvido com o objetivo de auxiliar empresas na:
 
-Projetado por:
-<br>
-Diogo Calegari dos Reis 2766973
-<br>
-<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/34ea99e3-c151-41bf-9d83-11d216f540e1" />
+- 📄 Análise de currículos
+- 🧠 Identificação de competências profissionais
+- 🚚 Gestão logística de funcionários
+- 📊 Organização estratégica de equipes
 
-João Antonio Carboni 2767058
-<br>
-<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/5c7ac9ac-00e6-4cb1-aefe-0f633a250e7f" />
+A proposta busca otimizar a alocação de talentos, melhorar a eficiência operacional e apoiar a tomada de decisões relacionadas à gestão de recursos humanos.
 
-Giovanni Beker 2767007
-<br>
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/dc5b13eb-1563-4924-b512-6c43ca6d19b3" />
+---
 
-Jedson Marengoni 2767040
-<br>
-<img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/7c869228-31e7-489b-bded-a0e7b2116272" />
+# 🎯 Objetivos
 
+- Automatizar a análise de currículos
+- Facilitar a gestão de colaboradores
+- Melhorar processos logísticos internos
+- Auxiliar o setor de RH na tomada de decisões
+- Centralizar informações profissionais dos funcionários
+
+---
+
+# 🚀 Funcionalidades
+
+✅ Cadastro de currículos  
+✅ Gestão de funcionários  
+✅ Sistema de busca e filtros  
+✅ Organização de competências  
+✅ Painel administrativo  
+✅ Relatórios estratégicos  
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Função |
+|---|---|
+| HTML5 | Estrutura |
+| CSS3 | Estilização |
+| JavaScript | Funcionalidades |
+| GitHub | Versionamento |
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+TatuBlindado-AS63C-2026.2/
+│
+├── assets/
+│   ├── images/
+│   └── styles/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── scripts/
+│
+├── README.md
+└── package.json
