@@ -105,7 +105,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 <br><br>
 
-## 🔹 Jedson Marengoni
+## 🔹 Jedson&nbsp;Marengoni
 
 ⚙️ Desenvolvedor
 
@@ -133,4 +133,3 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 </table>
 
 </div>
-
