@@ -134,26 +134,4 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 </table>
 
 
-# 📂 Estrutura do Projeto
 
-```bash
-TatuBlindado-AS63C-2026.2/
-│
-├── assets/
-│   ├── images/
-│   │   ├── integrantes/
-│   │   │   ├── integrante1.png
-│   │   │   ├── integrante2.png
-│   │   │   └── integrante3.png
-│   │   └── logo/
-│   │
-│   └── styles/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── scripts/
-│
-├── README.md
-└── package.json
-```
