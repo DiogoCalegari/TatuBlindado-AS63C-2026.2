@@ -1,12 +1,10 @@
-# TatuBlindado-AS63C-2026.2
-
-<div style="display: flex; justify-content: center;">
- <img width="301" height="301" alt="image" src="https://github.com/user-attachments/assets/d5b5a1a7-54f2-4ebd-a0b9-454fd3f0be45" />
-</div>
+# 🛡️ TatuBlindado-AS63C-2026.2
 
 <div align="center">
 
-# 🛡️ TatuBlindado
+<img width="260" height="260" alt="Logo do Projeto" src="https://github.com/user-attachments/assets/d5b5a1a7-54f2-4ebd-a0b9-454fd3f0be45" />
+
+# TatuBlindado
 
 ### Sistema Inteligente para Gestão de Talentos e Logística Corporativa
 
@@ -20,14 +18,14 @@
 
 # 📖 Sobre o Projeto
 
-O **TatuBlindado** é um sistema desenvolvido para auxiliar empresas na:
+O **TatuBlindado** é um sistema desenvolvido com o objetivo de auxiliar empresas na:
 
 - 📄 Análise de currículos
 - 🧠 Identificação de competências profissionais
 - 🚚 Gestão logística de funcionários
 - 📊 Organização estratégica de equipes
 
-A proposta busca otimizar a alocação de talentos, melhorar a eficiência operacional e apoiar decisões relacionadas à gestão de recursos humanos.
+A proposta busca otimizar a alocação de talentos, melhorar a eficiência operacional e apoiar a tomada de decisões relacionadas à gestão de recursos humanos.
 
 ---
 
@@ -37,7 +35,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 - Facilitar a gestão de colaboradores
 - Melhorar processos logísticos internos
 - Auxiliar o setor de RH na tomada de decisões
-- Centralizar informações profissionais
+- Centralizar informações profissionais dos funcionários
 
 ---
 
