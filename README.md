@@ -61,6 +61,21 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 ---
 
+# 👥 Integrantes do Grupo
+
+<div align="center">
+
+| Foto | Nome | Função |
+|---|---|---|
+| <img src="<img width="1024" height="1536" alt="WhatsApp Image 2026-05-27 at 20 09 31(1)" src="https://github.com/user-attachments/assets/3725a043-2c1f-4e38-a2d5-a0c10072451d" />
+" width="120"> | Nome do Integrante | Desenvolvedor |
+| <img src="./assets/images/integrantes/integrante2.png" width="120"> | Nome do Integrante | Front-end |
+| <img src="./assets/images/integrantes/integrante3.png" width="120"> | Nome do Integrante | Back-end |
+
+</div>
+
+---
+
 # 📂 Estrutura do Projeto
 
 ```bash
@@ -68,6 +83,12 @@ TatuBlindado-AS63C-2026.2/
 │
 ├── assets/
 │   ├── images/
+│   │   ├── integrantes/
+│   │   │   ├── integrante1.png
+│   │   │   ├── integrante2.png
+│   │   │   └── integrante3.png
+│   │   └── logo/
+│   │
 │   └── styles/
 │
 ├── src/
@@ -77,3 +98,4 @@ TatuBlindado-AS63C-2026.2/
 │
 ├── README.md
 └── package.json
+```
