@@ -64,10 +64,10 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 <div align="center">
 
-<table>
+<table style="width:100%; table-layout: fixed;">
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="25%">
 
 <img src="https://github.com/user-attachments/assets/889381ac-3a09-4c55-ad93-518f5858c4e2" width="150" height="150">
 
@@ -81,9 +81,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 </td>
 
-<td width="30"></td>
-
-<td align="center" width="250">
+<td align="center" width="25%">
 
 <img src="https://github.com/user-attachments/assets/c9b0374a-fd51-4b11-8300-4be68e4dd067" width="150" height="150">
 
@@ -97,15 +95,13 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 </td>
 
-<td width="30"></td>
-
-<td align="center" width="250">
+<td align="center" width="25%">
 
 <img src="https://github.com/user-attachments/assets/bb28c3cf-2031-4b34-b735-9c04d3a853c4" width="150" height="150">
 
 <br><br>
 
-## 🔹 Jedson&nbsp;Marengoni
+## 🔹 Jedson Marengoni
 
 ⚙️ Desenvolvedor
 
@@ -113,9 +109,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 </td>
 
-<td width="30"></td>
-
-<td align="center" width="250">
+<td align="center" width="25%">
 
 <img src="https://github.com/user-attachments/assets/b22e4714-003c-49d6-b41c-c91ccb6d1541" width="150" height="150">
 
