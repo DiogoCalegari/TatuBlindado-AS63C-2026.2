@@ -68,32 +68,77 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 <table>
 <tr>
 
-<td align="center">
-<img src="https://github.com/user-attachments/assets/889381ac-3a09-4c55-ad93-518f5858c4e2" width="120"><br>
-<b>Diogo Reis</b><br>
-Front-end
+<td align="center" width="250">
+
+<img src="https://github.com/user-attachments/assets/889381ac-3a09-4c55-ad93-518f5858c4e2" width="140" style="border-radius: 50%; border: 4px solid #00ffff;">
+
+<br><br>
+
+# 🔹 Diogo Reis
+
+💻 Front-end Developer
+
+━━━━━━━━━━━━━━━━━━
+
 </td>
 
-<td align="center">
-<img src="https://github.com/user-attachments/assets/c9b0374a-fd51-4b11-8300-4be68e4dd067" width="120"><br>
-<b>Giovanni Beker</b><br>
-Back-end
+<td width="40"></td>
+
+<td align="center" width="250">
+
+<img src="https://github.com/user-attachments/assets/c9b0374a-fd51-4b11-8300-4be68e4dd067" width="140" style="border-radius: 50%; border: 4px solid #00ffff;">
+
+<br><br>
+
+# 🔹 Giovanni Beker
+
+🛠️ Back-end Developer
+
+━━━━━━━━━━━━━━━━━━
+
 </td>
 
-<td align="center">
-<img src="https://github.com/user-attachments/assets/bb28c3cf-2031-4b34-b735-9c04d3a853c4" width="120"><br>
-<b>Jedson Marengoni</b><br>
-Desenvolvedor
+</tr>
+
+<tr>
+<td height="40"></td>
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+<img src="https://github.com/user-attachments/assets/bb28c3cf-2031-4b34-b735-9c04d3a853c4" width="140" style="border-radius: 50%; border: 4px solid #00ffff;">
+
+<br><br>
+
+# 🔹 Jedson Marengoni
+
+⚙️ Desenvolvedor
+
+━━━━━━━━━━━━━━━━━━
+
 </td>
 
-<td align="center">
-<img src="https://github.com/user-attachments/assets/b22e4714-003c-49d6-b41c-c91ccb6d1541" width="120"><br>
-<b>João Antonio</b><br>
-Desenvolvedor
+<td width="40"></td>
+
+<td align="center" width="250">
+
+<img src="https://github.com/user-attachments/assets/b22e4714-003c-49d6-b41c-c91ccb6d1541" width="140" style="border-radius: 50%; border: 4px solid #00ffff;">
+
+<br><br>
+
+# 🔹 João Antonio
+
+🚀 Desenvolvedor
+
+━━━━━━━━━━━━━━━━━━
+
 </td>
 
 </tr>
 </table>
+
 
 # 📂 Estrutura do Projeto
 
