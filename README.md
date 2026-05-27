@@ -111,7 +111,8 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 <td align="center" width="250">
 
-<img src="https://github.com/user-attachments/assets/bdab2c82-8add-4f91-94b8-b30edf34800e" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/b22e4714-003c-49d6-b41c-c91ccb6d1541" width="150" height="150">
+
 <br><br>
 
 ## 🔹 João Antonio
