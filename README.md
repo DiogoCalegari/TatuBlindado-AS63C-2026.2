@@ -102,7 +102,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 <h3>🔹 Jedson Marengoni</h3>
 
-⚙️ Desenvolvedor
+⚙️ Product-Owner
 
 ━━━━━━━━━━━━━━
 </td>
@@ -115,7 +115,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 ## 🔹 João Antonio
 
-🚀 Desenvolvedor
+🚀 Back-end Developer
 
 ━━━━━━━━━━━━━━
 
