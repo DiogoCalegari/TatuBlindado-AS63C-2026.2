@@ -97,7 +97,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 <td align="center" width="250">
 
-<img src="https://github.com/user-attachments/assets/bb28c3cf-2031-4b34-b735-9c04d3a853c4" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/bb28c3cf-2031-4b34-b735-9c04d3a853c4" width="150" height="120">
 
 <br><br>
 
