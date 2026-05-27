@@ -65,16 +65,35 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 <div align="center">
 
-| Foto | Nome | Função |
-|---|---|---|
-| <img src="<img width="1024" height="1536" alt="WhatsApp Image 2026-05-27 at 20 09 31(1)" src="https://github.com/user-attachments/assets/3725a043-2c1f-4e38-a2d5-a0c10072451d" />
-" width="120"> | Nome do Integrante | Desenvolvedor |
-| <img src="./assets/images/integrantes/integrante2.png" width="120"> | Nome do Integrante | Front-end |
-| <img src="./assets/images/integrantes/integrante3.png" width="120"> | Nome do Integrante | Back-end |
+<table>
+<tr>
 
-</div>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/889381ac-3a09-4c55-ad93-518f5858c4e2" width="120"><br>
+<b>Diogo Reis</b><br>
+Front-end
+</td>
 
----
+<td align="center">
+<img src="https://github.com/user-attachments/assets/c9b0374a-fd51-4b11-8300-4be68e4dd067" width="120"><br>
+<b>Giovanni Beker</b><br>
+Back-end
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/bb28c3cf-2031-4b34-b735-9c04d3a853c4" width="120"><br>
+<b>Jedson Marengoni</b><br>
+Desenvolvedor
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/b22e4714-003c-49d6-b41c-c91ccb6d1541" width="120"><br>
+<b>João Antonio</b><br>
+Desenvolvedor
+</td>
+
+</tr>
+</table>
 
 # 📂 Estrutura do Projeto
 
