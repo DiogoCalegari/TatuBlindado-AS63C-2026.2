@@ -85,7 +85,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 ## 🔹 Giovanni Beker
 
-🛠️ Back-end Developer
+  🛠️ Scrum Master
 
 ━━━━━━━━━━━━━━
 
@@ -111,7 +111,7 @@ A proposta busca otimizar a alocação de talentos, melhorar a eficiência opera
 
 ## 🔹 João Antonio
 
-🚀 Back-end Developer
+🚀 Kanban Master
 
 ━━━━━━━━━━━━━━
 
