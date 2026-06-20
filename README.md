@@ -8,9 +8,6 @@
 
 ### Sistema Inteligente para Gestão de Talentos e Logística Corporativa
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Tecnologia](https://img.shields.io/badge/stack-web-blue)
-![Disciplina]([https://img.shields.io/badge/AS63C-Desenvolvimento%20%C3%81gil-green](https://diogocalegari.github.io/TatuBlindado-AS63C-2026.2/))
 
 </div>
 
