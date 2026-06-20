@@ -12,7 +12,7 @@
 
 ## [🔗 🌐 Acesse o Projeto Web ](https://diogocalegari.github.io/TatuBlindado-AS63C-2026.2/)
 </div>
----
+
 # 📖 Sobre o Projeto
 
 O **TatuBlindado** é um sistema desenvolvido com o objetivo de auxiliar empresas na:
