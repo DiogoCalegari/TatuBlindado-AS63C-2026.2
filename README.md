@@ -10,7 +10,7 @@
 
 
 
-## [🔗 🌐 Acesse o Projeto Web ](https://diogocalegari.github.io/TatuBlindado-AS63C-2026.2/)
+## [🔗 🌐 Acesse o Projeto Web ](https://giovannisousa-cloud.github.io/)
 </div>
 
 # 📖 Sobre o Projeto
