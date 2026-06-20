@@ -11,7 +11,7 @@
 
 
 ## 🌐 Acesse o Projeto Web [🔗 Clique aqui para abrir o site](https://diogocalegari.github.io/TatuBlindado-AS63C-2026.2/)
-
+</div>
 ---
 
 # 📖 Sobre o Projeto
